@@ -17,4 +17,5 @@ Sebastian Lague의 Create a Game (Unity 5) 유튜브 영상을 참고하여 제�
 
 
 ## 참고자료
-[1] Sebastian Lague의 Create a Game (Unity 5) https://www.youtube.com/playlist?list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0;
+[1] Sebastian Lague의 Create a Game (Unity 5)  
+https://www.youtube.com/playlist?list=PLFt_AvWsXl0ctd4dgE1F8g3uec4zKNRV0;
